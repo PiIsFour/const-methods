@@ -1,0 +1,11 @@
+{
+  "name": "const-methods",
+  "version": "1.0.0",
+  "description": "show why mutating objects is a problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
