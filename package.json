@@ -1,9 +1,11 @@
 {
   "name": "const-methods",
   "version": "1.0.0",
-  "description": "show why mutating objects is a problem",
+  "description": "show why mutating objects could be a problem",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
     "test": "jest --watch",
     "lint": "eslint ."
   },
