@@ -4,11 +4,14 @@
   "description": "show why mutating objects is a problem",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest --watch",
+    "lint": "eslint ."
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-plugin-jest": "^23.8.2",
     "jest": "^25.1.0"
   }
 }
